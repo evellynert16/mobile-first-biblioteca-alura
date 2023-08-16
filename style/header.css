@@ -6,6 +6,8 @@
 }
 .cabeçalho{
     background-color:var(--branco);
+    display: flex;
+    justify-content: space-between;
 }
 .div-1{
     display: flex;
