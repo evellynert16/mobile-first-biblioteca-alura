@@ -4,7 +4,7 @@
     background-image: url(../imagens/Menu.svg.png);
     display: inline-block;
     background: repeat no-repeat;
-    background position:center;
+  background-position: center;
 }
 .cabeçalho{
     background-color:var(--branco);
