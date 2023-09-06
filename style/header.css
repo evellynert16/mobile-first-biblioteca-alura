@@ -32,7 +32,7 @@ h1 {
 .lista-menu{
     display: none;
     display: block;
-    position: relative;
+    position: absolute;
     top: 100%;
 }
 .div-menu:checked~.lista-menu{
