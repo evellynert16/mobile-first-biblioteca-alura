@@ -31,6 +31,9 @@ h1 {
 }
 .lista-menu{
     display: none;
+    display: block;
+    position: relative;
+    top: 100%;
 }
 .div-menu:checked~.lista-menu{
     display: block;
