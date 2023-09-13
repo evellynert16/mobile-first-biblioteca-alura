@@ -28,6 +28,11 @@ h1 {
 .lista-menu-titulo{
     color: var(--amarelo);
 }
+.lista-menu-link{
+    background: var(--roxo);
+    background-clip: text;
+    text-transform: uppercase;
+}
 
 @media screen and (min-width:1024px) {
     h1 {
