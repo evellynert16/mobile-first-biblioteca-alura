@@ -21,6 +21,13 @@
 h1 {
     display: none;
 }
+.lista-menu-titulo,.lista-menu-item{
+    padding: 1em;
+    background-color: var(--branco);
+}
+.lista-menu-titulo{
+    color: var(--amarelo);
+}
 
 @media screen and (min-width:1024px) {
     h1 {
