@@ -1,6 +1,6 @@
 @import url("../styles/header.css");
- 
- :root{
+
+:root{
     --cor-de-fundo: #EBECEE;
     --branco:#FFFFFF;
     --amarelo: #fecb2f;
@@ -13,8 +13,6 @@ body{
     font-size: 16px;
     font-weight: 400;
 }
-
-
 h1{
     background-color: var(--branco);
 }
